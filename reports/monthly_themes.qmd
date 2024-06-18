@@ -1,0 +1,116 @@
+---
+title: "4TU.ResearchData monthly themes"
+format: html
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+
+# Load packages ----
+packages <- c("here", "data.table", "janitor", "tidyverse")
+
+## Load required packages, install them if needed
+for (package in packages) {
+  if (!require(package, character.only = TRUE)) {
+    install.packages(package,  repos = "http://cran.us.r-project.org")
+  }
+  library(package, character.only = TRUE)
+}
+
+
+```
+
+## Load the data 
+
+```{r}
+#| label: read-data
+data_names <- c('un_days','repo_cat', 'uni_faculties' )
+
+un_days <- fread(here("data", "international_days.csv")) 
+repo_cat <- fread(here("data", "4tucategories.csv")) 
+uni_faculties <- fread(here("data", "uni_faculties.csv")) 
+
+```
+
+```{r}
+#| label: data-cleaning
+data_list <- list(un_days, repo_cat, uni_faculties)
+data_list <- lapply(data_list, clean_names)  
+names(data_list) <- data_names
+list2env(data_list,.GlobalEnv)
+
+
+```
+
+
+```{r}
+
+#|label: wide-to-long 
+un_days_long <- 
+  un_days |>
+  tidyr::separate_rows(associated_category, sep = ";") |>
+  as.data.table()
+
+un_days_long[,associated_category:=as.numeric(associated_category)]
+
+
+```
+
+
+```{r}
+#| label: join-cat
+setkey(un_days_long, id)
+setkey(repo_cat, parent_id)
+
+un_days_long <- repo_cat[un_days_long][order(date)]
+
+
+# include the parent category
+un_days_long <- 
+  repo_cat[,.(parent_id=id, parent_title = title)][un_days_long , on =.( parent_id)]
+
+un_days_long[is.na(parent_title),  parent_title := title]
+
+```
+
+```{r}
+#| label: stats 
+
+
+un_days_long [,.N, by =.( month, title)]
+un_days_long [,.N, by =.( month, parent_title)]
+un_days_long [,.N, by =.( month, parent_title, title)]
+
+
+un_days_long[,.N, by =.(month, international_name_day, title) ]
+```
+
+```{r}
+#| label: clean
+
+# wrong categories were assigned 
+un_days_long <- un_days_long[!(month ==11 & id %in% 13483:13488)]
+
+
+# remove days with no category 
+un_days_long <- un_days_long[!is.na(id)]
+
+
+```
+
+## Suggested themes 
+
+```{r}
+# Monthly theme suggested is the (parent) category that is most prevalent in a given month
+
+un_days_long[,n_parent_cat := .N, by =.( month, parent_title)]
+un_days_long[,n_cat := .N, by =.( month, title)]
+
+un_days_long[n_parent_cat == n_cat]
+
+
+```
+
+

@@ -1,0 +1,86 @@
+University,University_abbreviation,Faculty,Faculty_abbreviation,Department_RG,Department_abbreviation
+University of Twente,UT,"Behavioural, Management and Social sciences",BMS,"Technology, Policy and Society",TPS
+University of Twente,UT,"Behavioural, Management and Social sciences",BMS,"Technology, Human and Instititional behaviour",HIB
+University of Twente,UT,"Behavioural, Management and Social sciences",BMS,"Learning, Data analytics and Technology",LDT
+University of Twente,UT,"Behavioural, Management and Social sciences",BMS,High-tech Business and Entrepreneurship,HBE
+University of Twente,UT,Engineering Technology,ET,Biomechanical Engineering,BE
+University of Twente,UT,Engineering Technology,ET,Civil Engineering and Management,CEM
+University of Twente,UT,Engineering Technology,ET,"Design, Production and Management",DPM
+University of Twente,UT,Engineering Technology,ET,"Mechanics of Solids, Surfaces and Systems",MS3
+University of Twente,UT,Engineering Technology,ET,Thermal and Fluid Engineering,TFE
+University of Twente,UT,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Electrical Engineering,
+University of Twente,UT,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Mathematics,
+University of Twente,UT,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Computer Science,
+University of Twente,UT,Science and Technology,TNW,Applied Nanophotonics,ANP
+University of Twente,UT,Science and Technology,TNW,Bioengineering Technologies,BET
+University of Twente,UT,Science and Technology,TNW,Biomedical Imaging & Sensing,BIS
+University of Twente,UT,Science and Technology,TNW,Membrane Science and Technology,MST
+University of Twente,UT,Science and Technology,TNW,Nano Electronic Materials,NEM
+University of Twente,UT,Science and Technology,TNW,Molecules and Materials,MM
+University of Twente,UT,Science and Technology,TNW,Physics of Fluids,PoF
+University of Twente,UT,Science and Technology,TNW,Chemical Engineering,CE
+University of Twente,UT,Geo-Information Science and Earth Observation,ITC,Earth Observation Science,EOS
+University of Twente,UT,Geo-Information Science and Earth Observation,ITC,Geo-Information Processing,GIP
+University of Twente,UT,Geo-Information Science and Earth Observation,ITC,Natural Resources,NRS
+University of Twente,UT,Geo-Information Science and Earth Observation,ITC,Urban and Regional Planning and Geo-information Management,PGM
+University of Twente,UT,Geo-Information Science and Earth Observation,ITC,Water Resources,WRS
+Eindhoven University of Technology,TU/e,,,Mechanical Engineering ,
+Eindhoven University of Technology,TU/e,,,Chemical Engineering and Chemistry,
+Eindhoven University of Technology,TU/e,,,Mathematics and Computer Science, 
+Eindhoven University of Technology,TU/e,,,Biomedical Engineering ,
+Eindhoven University of Technology,TU/e,,,Electrical Engineering,
+Eindhoven University of Technology,TU/e,,,Applied Physics and Science Education,
+Eindhoven University of Technology,TU/e,,,Industrial Design,
+Eindhoven University of Technology,TU/e,,,Built Environment,
+Eindhoven University of Technology,TU/e,,,Industrial Engineering and Innovation Sciences,
+Delft University of Technology,TUD,Architecture and the Built Environment,ABE,Architecture,
+Delft University of Technology,TUD,Architecture and the Built Environment,ABE,Architectural Engineering and Technology,AE+T
+Delft University of Technology,TUD,Architecture and the Built Environment,ABE,Management in the Built Environment,MBE
+Delft University of Technology,TUD,Architecture and the Built Environment,ABE,Urbanism,
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Engineering Structures,ES
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Geoscience & Engineering,
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Geoscience & Remote Sensing,
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Hydraulic Engineering,
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,"Materials, Mechanics, Management & Design",3MD
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Transport & Planning,
+Delft University of Technology,TUD,Civil Engineering and Geosciences,CEG,Water Management,
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Delft Institute of Applied Mathematics,DIAM
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Electrical Sustainable Energy,ESE
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Intelligent Systems,
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Microelectronics,
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Quantum & Computer Engineering ,QCE
+Delft University of Technology,TUD,"Electrical Engineering, Mathematics and Computer Science",EEMCS,Software Technology,
+Delft University of Technology,TUD,Industrial Design Engineering,IDE,"Design, Organisation and Strategy",DOS
+Delft University of Technology,TUD,Industrial Design Engineering,IDE,Human-Centered Desgin,HCD
+Delft University of Technology,TUD,Industrial Design Engineering,IDE,Sustainable Design Engineering ,SDE
+Delft University of Technology,TUD,Aerospace Engineering,AE,Space Engineering,
+Delft University of Technology,TUD,Aerospace Engineering,AE,Control & operations,
+Delft University of Technology,TUD,Aerospace Engineering,AE,Flow Physics and Technology,
+Delft University of Technology,TUD,Aerospace Engineering,AE,Aerospace Structures & Materials,
+Delft University of Technology,TUD,"Technology, Policy and Management",TPM,Egineering Systems and Services,
+Delft University of Technology,TUD,"Technology, Policy and Management",TPM,Multi-Actor Systems,
+Delft University of Technology,TUD,"Technology, Policy and Management",TPM,"Values, Technology and Innovation",
+Delft University of Technology,TUD,"Technology, Policy and Management",TPM,Delft Centre for Entrepreneurship,
+Delft University of Technology,TUD,Applied Sciences,AS,Bionanoscience,
+Delft University of Technology,TUD,Applied Sciences,AS,Chemical Engineering ,
+Delft University of Technology,TUD,Applied Sciences,AS,Biotechnology,
+Delft University of Technology,TUD,Applied Sciences,AS,Imaging Physics,
+Delft University of Technology,TUD,Applied Sciences,AS,Quantum Nanoscience,
+Delft University of Technology,TUD,Applied Sciences,AS,Radiation Science & Technology,
+Delft University of Technology,TUD,Applied Sciences,AS,Science Education and Communication,
+Delft University of Technology,TUD,Mechanical Engineering,ME,BioMechanical Engineering,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Cognitive Robotics,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Delft Center for Systems and Control,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Maritime and Transport Technology,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Materials Science and Engineering,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Process and Energy,
+Delft University of Technology,TUD,Mechanical Engineering,ME,Precision and Microsystems Engineering,PME
+Wageningen University & Research,WUR,Agrotechnology & Food Sciences,,Food Safety Research,
+Wageningen University & Research,WUR,Agrotechnology & Food Sciences,,Food & Biobased Research,
+Wageningen University & Research,WUR,Animal Sciences,,Livestock Research,
+Wageningen University & Research,WUR,Animal Sciences,,Bioveterinary Research,
+Wageningen University & Research,WUR,Animal Sciences,,Marine Research,
+Wageningen University & Research,WUR,Environmental Sciences,,Environmental Research,
+Wageningen University & Research,WUR,Plant Sciences,,Plant Research,
+Wageningen University & Research,WUR,Social Sciences,,Economic Research,
+Wageningen University & Research,WUR,Social Sciences,,Centre for Development Innovation Research,

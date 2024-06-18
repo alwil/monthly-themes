@@ -1,0 +1,295 @@
+parent_id,id,uuid,title
+13410,13413,482848fa-fd3d-4dda-b4dd-fd2adeb09791,Soil Sciences
+13524,13532,6d7a29d1-71f6-40bf-a532-61b4b46c56a4,Human Pharmaceutical Products
+13440,13445,60977a21-b79e-41d9-935a-04ecc6c09a57,Primary Animal Products
+13578,13579,73e5128d-4258-4116-924c-e4ae6a656348,Biochemistry and Cell Biology
+13415,13418,7810f72d-71ca-4822-85c7-3b01a65f6604,Public Health (excl. Specific Population Health)
+13620,13627,2dbd4c44-06f7-4be9-8204-08a77feec538,Energy Conservation and Efficiency
+13493,13494,46df1ab7-d281-4218-8ea7-cb14c7ac94aa,Arts and Leisure
+13630,13641,0d161bd2-77ee-40d7-8242-bfbf6af1237e,Maritime Engineering
+13603,13609,33a0224f-c40e-44a2-b72d-21efb87fd133,Quantum Physics
+13630,13634,5fbec40f-17fe-49bb-bd75-2039091814d3,Chemical Engineering
+13551,13557,87eb1a81-b887-49e3-859b-c76dd698d4bf,Physical Geography and Environmental Geoscience
+13524,13538,a13e612b-6cc8-4f54-a331-4f44307a6748,Machinery and Equipment
+13630,13633,c0ff8d91-a0c7-4812-941d-b05cb1e621f5,Biomedical Engineering
+13464,13471,7cd4e17a-916c-4925-9526-adf9e4c7657c,Social Work
+13603,13606,b4d869dc-52be-4679-9f4f-d3ff71d0bd5c,Classical Physics
+13500,13503,edac66af-3038-4110-a4c0-dc5f3c2e8b16,Business and Management
+13588,13591,6956fc61-deb9-4a01-81af-22ea6e6bbd7f,Philosophy
+13630,13642,0311a3b2-d712-4a98-8a1f-5f606d4cf07d,Materials Engineering
+13661,13662,dd4a77d3-97c5-46d4-8a80-793c970e87f9,Ground Transport
+13385,13398,afd4f83e-6e50-4818-a40e-ef1c668646db,Remnant Vegetation and Protected Conservation Areas
+13362,13363,8e465207-7ab9-408c-8750-43f4e713e5d1,Architecture
+13611,13619,f7ff28df-1df0-4264-80e1-2135895f3adc,Other Information and Computing Sciences
+13362,13365,e7d274c2-3381-4e68-9b49-a6ea0b310b6f,Design Practice and Management
+13578,13582,eb96a994-a823-45e4-814e-736eb3538931,Genetics
+13647,13651,ca69cc61-48a4-41ea-ad07-9a5a93ab1c4c,Other Education
+13474,13489,6e1dba75-7ef0-45e2-8bb0-a1ccaf8b6e77,Pharmacology and Pharmaceutical Sciences
+13474,13482,258205dc-3286-48e8-a169-9100353fd293,Medical Microbiology
+13611,13613,12d85694-50ae-4cb5-8ba2-694aeabd5069,Computation Theory and Mathematics
+13438,13439,edaaf030-d112-4104-9942-8de2cb349f10,Expanding Knowledge
+13440,13446,fae53984-b922-43b7-b3d5-8871d7f908bd,Environmentally Sustainable Animal Production
+13474,13488,845b8546-a806-4cc4-9c58-739be96dfab1,Paediatrics and Reproductive Medicine
+13385,13393,b08ffe23-2910-4ab5-ad11-350ac0ccd23b,"Flora, Fauna and Biodiversity"
+13464,13465,903175b6-9528-4ba1-b0bf-ffbca0df53ed,Anthropology
+13661,13664,620eb497-75d2-4cac-a868-26d1cb908d5c,Aerospace Transport
+13594,13601,95448914-83bb-4072-956f-7788b74bc146,Theoretical and Computational Chemistry
+13603,13607,d20f6614-34cd-477b-a2be-052599db6ef9,Condensed Matter Physics
+13544,13548,549ff458-4a3e-470f-9502-c89b0e7f81ed,Media Services
+13385,13396,8b815bd5-613c-447a-bf19-832c62e96925,Physical and Chemical Conditions of Water
+13571,13574,4c505720-1d2e-43f3-84b4-2dca7d505ec3,Curriculum
+13652,13656,fd84649c-2b51-4f47-a4f9-1d23fdd18f42,Medical Biotechnology
+13571,13576,c26d5477-d71f-4937-a2b1-99b141e12999,Education and Training Systems
+13559,13561,2cadbe4c-76f8-4fba-8c4f-fb89ac992ff0,"Film, Television and Digital Media"
+13544,13549,631ee616-d836-4556-9388-1a3c004f584a,Environmentally Sustainable Information and Communication Services
+13667,13670,a60578f8-2c80-4712-83de-68d40f7a599b,International Trade
+13421,13423,58f6d17c-52d1-4774-bd2d-6770455f59f5,Primary Mining and Extraction of Mineral Resources
+13431,13433,06d0a9b2-f6f3-4b69-96f0-3a0121ece9e8,Applied Mathematics
+13524,13535,449f7c32-9901-4930-99cb-6e94cf923589,"Basic Metal Products (incl. Smelting, Rolling, Drawing and Extruding)"
+13588,13589,aae6065b-22ad-4478-867a-8bb4b293cd54,Applied Ethics
+13630,13636,52da4441-7113-4f3c-92b0-9a43d2e330bc,Electrical and Electronic Engineering
+13385,13388,d25f967d-b524-4290-a926-7358d2325248,Climate and Climate Change
+13431,13436,bd3f5e1d-92b2-4f61-ab4b-97772baac223,Mathematical Physics
+13524,13537,0bcb8dc2-de7e-42c2-98e7-bdd02f91f939,Transport Equipment
+13630,13643,c1b8cd5f-1fb7-4de9-9033-9c98e0f3a8ca,Mechanical Engineering
+13362,13367,52adacc3-4c3d-48b5-98a7-a696aea38c49,Urban and Regional Planning
+13509,13511,432156b0-28bb-44fc-849a-ddda6f5fbc5f,Construction Design
+13464,13470,2f9ef85f-d9f8-4baf-925e-79e246a2b516,Political Science
+13457,13460,b8c2f079-b4d3-4ae0-a89a-eeea27f964b4,Tourism
+13509,13510,219d30c6-a530-4bcc-aaf4-24fe38571aed,Construction Planning
+13566,13568,8ac1eea8-92a1-4947-9e32-2c84f2e0f19a,Applied Economics
+13369,13375,ab09af8e-d203-4689-90f5-b435ae07a544,"Other Law, Politics and Community Services"
+13620,13623,2c4a141b-39d8-47fc-83ed-ca6d45abe7fc,Preparation and Production of Energy Sources
+13457,13459,52624873-cf4b-4bd8-ac48-9d143f476f41,"Property, Business Support Services and Trade"
+13385,13390,8b2635a7-0d34-4ce8-b450-12978005cda5,Ecosystem Assessment and Management
+13551,13552,3fa7d8a0-c24e-40d3-bd74-c125edf8edbb,Atmospheric Sciences
+13652,13655,220436bf-a193-4d0c-bfa0-3c1bc682a528,Industrial Biotechnology
+13559,13563,cb22f98f-1b07-4ec9-b01d-27ee4b6e212d,Performing Arts and Creative Writing
+13464,13473,abc36d07-8ef6-4274-a842-198874e56387,Other Studies in Human Society
+13544,13546,d025c5e9-eba4-4720-bfae-07045bb846ff,Computer Software and Services
+13578,13584,bdefe2e4-f316-4805-886d-dd7f2e494274,Physiology
+13578,13586,1f5a3560-c5d7-4868-b0f4-61b7b7a6f053,Zoology
+13509,13513,e13ab268-e575-4fbc-a55a-7213c86352e6,Construction Processes
+13410,13412,17fdb853-5475-4cc4-8ca4-0e3ffb546c50,Environmental Science and Management
+13474,13480,00dbe80e-6079-4fe4-8613-71f075b9ee08,Human Movement and Sports Science
+13517,13521,1bc4a729-c96b-4ed2-8492-80a809f22c2c,Linguistics
+13630,13632,ec77006d-d242-4b12-aa64-d922f1393765,Automotive Engineering
+13630,13631,c48b335c-00e2-4c41-8e1f-638d4355ee53,Aerospace Engineering
+13493,13498,9b55e5fa-bcad-4ccd-b10b-eb60e138b8d1,Understanding Past Societies
+13457,13462,a6655c46-ca27-4580-8820-85cef7f8b756,Environmentally Sustainable Commercial Services and Tourism
+13566,13569,0d88024e-7945-4154-bfb5-192e36915cf0,Econometrics
+13421,13426,2d0f6366-e2c7-4ba5-a082-4c577c2616c5,Other Mineral Resources (excl. Energy Resources)
+13431,13437,fb5b02a3-0bac-48c9-bd64-8a5200f1ed58,Other Mathematical Sciences
+13630,13639,4a4f6b67-a410-4b26-91e4-b0ae2abb8767,Geomatic Engineering
+13500,13501,0fb060f1-0034-4e1d-9dab-adbac97763c0,"Accounting, Auditing and Accountability"
+13369,13371,d2ef892a-a6a9-4f4c-8751-0e7c40abbd6b,Government and Politics
+13620,13622,cef6d776-44ef-499b-bac9-2efadcdefb4e,Mining and Extraction of Energy Resources
+13415,13419,5f8b199c-6ba4-43a0-8ed6-2c7bf2dead32,Specific Population Health
+13500,13505,06f7caed-3621-44c7-a28c-706a5727ea64,Marketing
+13453,13454,31fa4857-773d-4720-9df7-92ab6eaa4791,Psychology
+13440,13447,62968dc9-5b00-43b8-9ace-0ca8d8a3d22c,Other Animal Production and Animal Primary Products
+13566,13570,617d74aa-72c6-497f-a25e-2c1cc03ad29f,Other Economics
+13385,13389,5a318b96-0b48-414d-a211-68127ed821ce,"Control of Pests, Diseases and Exotic Species"
+13620,13629,d29e961b-38f3-495c-92e6-8c78ba39ccc2,Other Energy
+13667,13673,35a1889a-7455-440c-8e9f-48fab902cc11,Other Economic Framework
+13421,13422,a00fd3ac-8f80-427d-9557-e44171b7d5b3,Mineral Exploration
+13362,13364,42ba8146-1d76-4c59-bd06-64ee3bd3b60d,Building
+13493,13499,7d6d4d75-7109-408d-a524-4fc95d6c41c4,Other Cultural Understanding
+13376,13380,cfa3891e-c445-4ebf-ba66-c4013ad3b5e3,Fisheries Sciences
+13421,13425,8ca19bcd-2fe0-4268-956e-16ee2b4ca5e9,Environmentally Sustainable Mineral Resource Activities
+13652,13657,ece912d9-c813-44cf-8d16-d4a17287fb02,Communications Technologies
+13603,13604,5ae844dc-469f-4154-9083-85c332ab5ee2,Astronomical and Space Sciences
+13509,13515,84ca36be-bc31-492a-bbec-c0b4499a4585,Environmentally Sustainable Construction
+13474,13481,5cd9dcb6-f3aa-4696-b9de-02ae484d0b90,Immunology
+13509,13514,dac76d16-73b5-4eba-b495-4b134b2d439e,Building Management and Services
+13410,13411,9316ce1b-a44c-44fa-bc5e-bdf2ca1514ce,Ecological Applications
+13603,13608,ea9908ea-20cf-4239-b9dc-4611272471d6,Optical Physics
+13362,13368,7112132e-ec8b-4897-819b-f92392f0d1d2,Other Built Environment and Design
+13551,13554,3defab81-a94f-412b-b981-db5751526478,Geology
+13551,13555,709f661a-8226-4d47-b435-b3ccda2a3df3,Geophysics
+13385,13395,a6787e09-6095-4175-bceb-7e64abab26dd,Natural Hazards
+13493,13497,48c7a960-6587-4d61-b04b-f57ea65bff58,Religion and Ethics
+13385,13391,893091f8-e9a0-4c35-a900-9e02446ed4ed,Environmental and Natural Resource Evaluation
+13369,13373,3cdfe7c4-8132-4a6a-966a-7012f71559ae,Justice and The Law
+13594,13598,b396486a-013f-4cbc-8d8f-40940bf1c75c,Medicinal and Biomolecular Chemistry
+13551,13553,784fb26b-ccf0-45e8-8062-731bb86e3497,Geochemistry
+13571,13573,78960860-1251-47d8-b83f-5a7e576f67c2,Teaching and Instruction
+13544,13547,6aada333-840c-49a7-9efb-d65fc8e0f75b,Information Services
+13376,13381,bb4933dc-2508-4ad9-a529-94926a18e4cf,Forestry Sciences
+13611,13614,417fe56b-c340-4068-aea6-be5b8c43128a,Computer Software
+13376,13382,991861da-33dc-4eef-8feb-792d119e1e1d,Horticultural Production
+13594,13597,c9029bd2-a3d5-4b69-aceb-772d3c86188a,Macromolecular and Materials Chemistry
+13611,13615,94594f6c-78f1-4ded-8fb1-5ea4f186d22e,Data Format
+13661,13666,4ad6c3ce-da13-4f0f-bb83-d5caef1fe0eb,Other Transport
+13630,13644,a9b4dda0-00e3-4bd6-b9d2-2bff3aa23b67,Resources Engineering and Extractive Metallurgy
+13620,13628,cefc5503-6b28-48d5-ae3e-4ee52c5ff6da,Environmentally Sustainable Energy Activities
+13667,13672,15a0b167-2b86-40cf-b60b-c2809b8113a3,Measurement Standards and Calibration Services
+13474,13476,90fe2524-2f0f-462c-ac09-d7ad23b8f07b,Cardiorespiratory Medicine and Haematology
+13652,13660,9c2bd658-1613-4e2e-ad93-f3c2cde9d09b,Other Technology
+13517,13519,b6473da5-e145-4375-a8b5-8e97dae311e9,Cultural Studies
+13369,13372,9a609cc2-4c69-49cc-97bb-301f4cbbcc49,International Relations
+13603,13610,d8d6b816-5667-45c4-9eaa-c363c9bcddb6,Other Physical Sciences
+13474,13475,ff734927-03ef-4f78-a2e6-e71ce278b24a,Medical Biochemistry and Metabolomics
+13401,13409,73923698-f8b8-40ef-828c-c88408638a3a,Other Plant Production and Plant Primary Products
+13620,13621,c554199c-c93b-4c89-9827-2e8b45a8f876,Energy Exploration
+13457,13461,d892e7a5-dc8b-42a5-baa8-b3dea56ca6f5,Water and Waste Services
+13369,13374,317bd4b0-3df6-47a3-ab36-73a1e0020017,Work and Institutional Development
+13566,13567,200ce444-5e8c-461d-8e98-785baca5b89a,Economic Theory
+13524,13540,88b62aba-91f5-4d92-94ae-594935c7ed59,Computer Hardware and Electronic Equipment
+13376,13378,9a0ac13b-e666-4239-a99d-d05be7b0f2e8,Animal Production
+13524,13543,8d4d3c5f-86d6-45f6-93ca-bc177fa0c17e,Other Manufacturing
+13667,13669,91f9966d-efbb-4763-96b6-8fbe9a98e4e3,Microeconomics
+13620,13624,29ebe0cf-3d3e-4d6e-86b9-1b011b967f05,Energy Transformation
+13517,13520,425d908c-3821-4118-9795-58fe2498c21a,Language Studies
+13571,13577,5a60fc09-5295-42b6-a34c-fc9138c89cd4,Other Education and Training
+13440,13442,e88f8c5e-41ce-492f-a187-390db3b84289,Fisheries - Wild Caught
+13578,13583,848265c1-e9ee-48f4-8307-0508876ede6c,Microbiology
+13611,13617,ee038a84-97d3-47ca-b21b-0f2a297bbed1,Information Systems
+13667,13668,7fd20102-98e8-4af8-a6f1-fcbfa95ce8f7,Macroeconomics
+13385,13394,bebd0945-805d-4750-a817-970df8241c4e,Land and Water Management
+13594,13600,e156a33b-f7c2-4fba-a7fb-ec44bbc8e65e,Physical Chemistry (incl. Structural)
+13500,13507,44d9ac5b-c81f-460a-9dce-b5693b6d5913,Transportation and Freight Services
+13431,13432,aef014f9-9e99-4943-ac39-8240d15e07e5,Pure Mathematics
+13652,13658,37e09d5e-a4ea-4287-acd4-7e7e253baac3,Computer Hardware
+13453,13456,a7e69e64-6fb6-4485-a4ba-1e07f464593a,Other Psychology and Cognitive Sciences
+13524,13539,4da341a2-9ccb-42b4-ae3d-c27f973c1ab5,Instrumentation
+13571,13572,11fd2b39-425c-460f-83d7-c14c545b95f3,Learner and Learning
+13630,13637,2adf1751-57a6-452b-ba07-155f00c82a46,Environmental Engineering
+13415,13416,9a6bd388-cddd-4b41-8d90-6abb8937e515,"Clinical Health (organs, Diseases and Abnormal Conditions)"
+13652,13654,9b618812-9f16-4cd4-952e-fd86930b3135,Environmental Biotechnology
+13448,13449,870ffd2c-b5c5-4bb8-a62b-ed8ecefe85a9,Archaeology
+13360,13361,c5590951-ed5f-4cb6-9f8b-dc9c260ac72d,Defence
+13647,13650,14219496-7227-4bbc-ab03-b1c2faa67d86,Specialist Studies in Education
+13500,13502,0d630d2a-a552-4f2d-8d44-5fdffc58b9f7,"Banking, Finance and Investment"
+13474,13483,fcfed4b0-bb90-483e-8e33-ea05c5ba9e7e,Neurosciences
+13427,13430,ec2dd4f8-047b-4516-bcb7-008c0e63fb76,Other Law and Legal Studies
+13620,13625,70d7a896-6d70-409a-ab17-bc9906f7f7c7,Renewable Energy
+13474,13492,9e20c715-fe72-4520-82ac-0781d3e16341,Other Medical and Health Sciences
+13474,13487,3e9cd9be-fddf-4198-8b7a-60d1bdd74047,Ophthalmology and Optometry
+13453,13455,58a03e34-4a7e-4f43-8b16-50093a13615b,Cognitive Sciences
+13578,13587,720076e9-5b32-40d0-8d00-8f2290dd24bd,Other Biological Sciences
+13551,13556,30c57426-0d1a-4429-96dc-ad0ec789fe3b,Oceanography
+13524,13528,9c74d047-68d0-48d1-9812-c925885407bb,"Leather Products, Fibre Processing and Textiles"
+13594,13595,a07503c2-4479-4f56-bf09-c426c90199c3,Analytical Chemistry
+13594,13599,f51405a2-5fda-4dec-b86f-1a830314309c,Organic Chemistry
+13630,13640,652cfeac-64d7-49e2-a04a-18ee3825d610,Manufacturing Engineering
+13385,13400,61699b3d-c580-45d2-8b4d-cacf4961716d,Other Environment
+13500,13508,764912b1-a6c4-46b1-a068-25a4205fae21,"Other Commerce, Management, Tourism and Services"
+13524,13525,895c6ad0-01af-428c-bab7-ce5b3cbc45c6,Processed Food Products and Beverages (excl. Dairy Products)
+13509,13516,92c057dc-62e5-4c15-a245-6f426102f7b3,Other Construction
+13611,13616,179ee366-6577-4307-85e7-ce0fbbf25f69,Distributed Computing
+13661,13665,c2d19477-a207-4f56-ac36-5e532531bafd,Environmentally Sustainable Transport
+13385,13397,c65099a6-5681-4ddd-9f2e-7f5bad82e74b,Rehabilitation of Degraded Environments
+13661,13663,748dc9e6-d84d-4dbb-a0e1-fc3656570d18,Water Transport
+13544,13545,c175c559-5d36-4848-9a2b-08b3aff5935a,Communication Networks and Services
+13652,13659,f879658e-fbcc-4a06-b859-eb26f618d08c,Nanotechnology
+13464,13466,735f4e58-f163-4b42-b386-6aa7f6b781b1,Criminology
+13401,13408,a252f367-578e-4fbb-af28-cdf7f223d6e8,Environmentally Sustainable Plant Production
+13524,13526,4be83458-2da4-45ae-ade7-2d297d6c5e19,Dairy Products
+13630,13646,9cba963b-413f-4b71-ad1d-ed61e27fa40d,Other Engineering
+13362,13366,cdb86887-013f-4a96-8d92-3c2d75d1c679,Engineering Design
+13385,13387,a0115220-2b5d-4163-8f29-97f4e76ec1ca,Atmosphere and Weather
+13667,13671,762647d1-f274-492e-8ac0-d53a2e10f0ee,Management and Productivity
+13474,13485,d2b387db-8b10-4d20-bec0-a8455330138b,Nutrition and Dietetics
+13594,13596,c919ff0b-1d9e-44e9-9221-7087ca2178f8,Inorganic Chemistry
+13431,13435,dee66339-9d91-4bb2-9e25-79884cf58acb,Statistics
+13578,13585,19c37bc6-b959-4828-9860-4a21fb83605f,Plant Biology
+13647,13649,fb4d255a-647a-4c84-8e1a-2930f684df40,Curriculum and Pedagogy
+13385,13392,bf19e6f2-9ce5-4fcd-831e-67be3d25c1e6,"Environmental Policy, Legislation and Standards"
+13401,13402,99c9146f-4a13-4527-9216-3734c9910450,Forestry
+13594,13602,9efa9dca-2795-4a7d-9564-b9144a4b59ce,Other Chemical Sciences
+13493,13496,c892b310-6db3-4a47-877e-a1ec22a6f920,Heritage
+13385,13386,314a3fc2-4f4a-4cf8-998f-6177f88f0652,Air Quality
+13603,13605,0608e9c4-5a64-42da-a219-ab89d1d9043c,"Atomic, Molecular, Nuclear, Particle and Plasma Physics"
+13464,13467,435deed2-7038-481c-ad09-677bcbd3be2f,Demography
+13578,13580,23064525-139e-4892-8b4c-855f20552b94,Ecology
+13500,13506,22b13daa-ae41-4343-bd51-bd28da30f877,Tourism
+13431,13434,c18c4cea-c0f3-4697-a9d9-992a6abc05fc,Numerical and Computational Mathematics
+13385,13399,a04869a0-25df-4630-88cc-af386499ed9a,Soils
+13464,13472,732fff6f-7a09-401a-8722-9499df862e31,Sociology
+13611,13618,c5bfcdba-627b-464e-acab-d8e67dd08943,Library and Information Studies
+13440,13441,78559c76-75ef-4f66-92b6-140ccdda445b,Fisheries - Aquaculture
+13427,13428,ab7a943a-3ffe-480f-a064-736546627040,Law
+13474,13478,d6ae36b7-214f-49d0-abc2-5d1a94e9b074,Complementary and Alternative Medicine
+13376,13383,918b47e2-dce1-4c8f-b7e7-81eda1bf8ec8,Veterinary Sciences
+13509,13512,b3b25c7b-7c64-4990-b706-740a9e483954,Construction Materials Performance and Processes
+13588,13592,3547febe-dfd1-4837-968c-72ba83a8fd2b,Religion and Religious Studies
+13474,13477,77d33320-2d61-4d7b-bb96-011ca33a9b53,Clinical Sciences
+13630,13645,efdd7237-c825-4b72-9613-29357c3b9067,Interdisciplinary Engineering
+13652,13653,2d01e162-cb71-461c-964f-05aeb94fd866,Agricultural Biotechnology
+13493,13495,c3a1bc97-9ab9-44b6-8564-18b1ac3b8a86,Communication
+13588,13590,f10dae5c-0a11-4762-a5a8-f187a33662e6,History and Philosophy of Specific Fields
+13578,13581,c21f51b6-6ff9-40f8-9af7-a4e608432a5d,Evolutionary Biology
+13474,13491,5016ab16-4115-46bf-bcdf-67ce9bd07f1f,Public Health and Health Services
+13448,13451,7e18c037-de2d-4ca3-81d6-bfd771716a81,Historical Studies
+13571,13575,374ab2ad-c20b-45aa-865c-e9c6137df5be,School/institution
+13559,13564,05c05980-c8ce-4e9c-bf6b-834529ad41dd,Visual Arts and Crafts
+13440,13443,3d93972c-3409-45ab-a235-820798c3774b,Livestock Raising
+13620,13626,2e3e3332-3979-41f5-80d9-919efa5b66a1,"Energy Storage, Distribution and Supply"
+13544,13550,af8d66d0-c57b-42d5-bc58-5d926dc6b0ec,Other Information and Communication Services
+13415,13420,514efb7b-78db-47ef-b517-dd164d25774e,Other Health
+13410,13414,0ab05478-d3ca-4420-9cb9-681228b330fb,Other Environmental Sciences
+13464,13469,95bb8255-0444-4c8b-815f-e1ecc5930d38,Policy and Administration
+13630,13638,7874a730-927f-448f-a332-7260a52cd084,Food Sciences
+13588,13593,019ade33-7f0a-4dc6-8ae9-8e2c8ee35223,Other Philosophy and Religious Studies
+13457,13458,91ca336b-769a-45c8-9040-9cf89ea7d606,Financial Services
+13376,13377,ee938f97-a5e5-4f5c-bd39-4245f82924ee,"Agriculture, Land and Farm Management"
+13474,13490,90a9041c-a152-4366-85a0-5e4114e5777a,Medical Physiology
+13517,13523,b257b52b-3c18-47c3-996d-f497a08a2584,"Other Language, Communication and Culture"
+13401,13404,8fd321d1-e792-4bcc-9ea9-a74dd9ac2d4a,Industrial Crops
+13524,13542,fdbaff3b-e86c-497d-bb57-216869786308,Environmentally Sustainable Manufacturing
+13401,13403,18f27350-c919-48ad-a900-f6bcc4574422,Horticultural Crops
+13440,13444,713d6fe7-99dd-4ffa-841f-a2c2cf55ed93,"Pasture, Browse and Fodder Crops"
+13630,13635,37034e3b-2586-4ccf-80b3-3135045aad0a,Civil Engineering
+13474,13479,23249898-6000-44ba-a846-1861bb4ed12d,Dentistry
+13464,13468,45368b16-8982-4977-97c8-e2424aa248ec,Human Geography
+13376,13379,c5d17bca-a1e7-438b-a0ca-d7316bb80da3,Crop and Pasture Production
+13376,13384,2cc4fa77-e231-4eb8-af7d-de47f9b945a2,Other Agricultural and Veterinary Sciences
+13517,13518,ef4c3bf2-8897-4ed2-8993-503238468923,Communication and Media Studies
+13524,13530,92eb9bf0-6d92-4d17-a9d5-8f502d9530e2,Industrial Chemicals and Related Products
+13474,13484,bc6eb668-26ab-423f-99e5-2cbb391386b6,Nursing
+13611,13612,bb0332d9-21ae-4e23-9d56-574ded531aeb,Artificial Intelligence and Image Processing
+13415,13417,dbca4ff0-55cd-4a1b-ad7a-4137a3589526,Health and Support Services
+13474,13486,09dcda55-b0d9-4aa0-bc97-b8f35975ca4e,Oncology and Carcinogenesis
+13500,13504,18451edd-e114-44f8-acba-c8c791c03bfb,Commercial Services
+13647,13648,932a2d41-3deb-4128-918a-96e01e741a57,Education Systems
+13551,13558,8f27eb44-0a63-4496-ba6d-e3cbf4efa6c7,Other Earth Sciences
+,13603,b79e0263-727e-45df-8477-560a0de6f6e4,Physical Sciences
+,13611,be2e6605-5a89-4da3-ae42-16dcd34b6261,Information and Computing Sciences
+,13544,59e917ac-08bf-43e3-99a4-ca69d32fca71,Information and Communication Services
+,13594,91cad81e-dc71-4485-8bae-d0380e908ba8,Chemical Sciences
+,13410,de97ed9c-1a6b-4bf0-83d4-fb88c9b943c9,Environmental Sciences
+,13509,917fb943-eaae-45ca-8de6-7a82478cdb5f,Construction
+,13421,c5dc7b14-1219-441c-9542-506ac2d8b958,Mineral Resources (excl. Energy Resources)
+,13524,2027315a-6918-40f8-b36a-59d83a057828,Manufacturing
+,13661,3f2ba282-0b61-4fc7-9d0e-80a26ab4609d,Transport
+,13362,4d73a546-8f90-40a5-86e4-8427074bb08e,Built Environment and Design
+,13630,3bfc84c8-e538-4f4a-a9cc-1c6bf852f76f,Engineering
+,13360,8c941966-5481-47be-9711-24e1837d2a5b,Defence
+,13620,91800565-d67c-42e5-b6e1-4a2ca6432465,Energy
+,13652,557ad0b0-c541-4820-8267-417be6a1acc1,Technology
+,13566,305f48bd-3075-4caa-8333-bf5ed1fd3f20,Economics
+,13667,66c9fa8c-7be8-4acd-b17c-bc08f4b636e6,Economic Framework
+,13559,c831d753-6ac2-4f58-84dc-fa4c68823b06,Studies in Creative Arts and Writing
+,13401,0d03bc2f-4ab2-4bf3-944a-628d4e30d25d,Plant Production and Plant Primary Products
+,13376,ca5840f8-7e01-44de-9a7c-3a417f4206cb,Agricultural and Veterinary Sciences
+,13415,7bb11509-e6d0-4aa1-9444-4ecaf3f6ae55,Health
+,13453,c70cb7d7-a026-496f-9130-50449701a1ab,Psychology and Cognitive Sciences
+,13369,a46aa16d-19f5-47e1-9dfb-11724e20eaf0,"Law, Politics and Community Services"
+,13438,36818d5d-912b-4fe1-9e62-6691856fdfbd,Expanding Knowledge
+,13588,11498510-3179-419d-86de-d7d7198551bd,Philosophy and Religious Studies
+,13448,e599139e-7399-461b-a6ad-1472219fed38,History and Archaeology
+,13440,d5ec17bc-f2af-4561-a9db-44d621c4b3bd,Animal Production and Animal Primary Products
+,13464,dff7ba5d-7aaa-4cfc-8f33-ef3018419249,Studies in Human Society
+,13474,c0b0386f-e5d7-4a71-a819-49a73a47cdf1,Medical and Health Sciences
+,13385,2f4f7ac4-46a5-4a86-ab12-823466dbe46f,Environment
+,13647,d5430ba8-087b-48be-b7c0-7ff15ab6fa8f,Education
+,13431,6c4675b5-095e-4f17-99cd-45beac4c11aa,Mathematical Sciences
+,13500,01003aac-afbe-4e1c-b246-19cdb88e123c,"Commerce, Management, Tourism and Services"
+,13578,c699d470-0b16-4068-9ea2-1522b4ffb332,Biological Sciences
+,13493,a4a2486d-4276-493a-b71c-39b3cbd147a7,Cultural Understanding
+,13517,42edb7b2-a832-4f57-bdd2-0a3d0c7efab9,"Language, Communication and Culture"
+,13427,31ebf93d-c03f-4d82-9f1b-49359bbedb19,Law and Legal Studies
+,13551,dd4dbaaf-0610-4d8d-8b07-e1eeb32dd11c,Earth Sciences
+,13571,c03309e8-21ae-4d41-8d22-c3662e3cfd20,Education and Training
+,13457,fc93b5f2-805d-4fbb-87f4-318582faa70f,Commercial Services and Tourism
